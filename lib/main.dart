@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         primaryColor: Colors.white,
         textTheme: TextTheme(
-          bodyText2: TextStyle(color: Colors.red),
+          bodyText2: TextStyle(color: Colors.white),
         ),
       ),
       home: HomeScreen(),
